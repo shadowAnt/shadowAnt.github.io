@@ -1,0 +1,95 @@
+# ---------------- #
+#   Main Configs   #
+# ---------------- #
+baseurl:
+url: https://shadowAnt.github.io/
+date_format: "ordinal"
+title: Notes
+subtitle: "空山新雨后"
+description: "蚂蚁的个人博客"
+keywords: 聪
+favicon: /favicon.ico
+timezone: Asia/HeFei
+encoding: "utf-8"
+source_code: https://github.com/shadowAnt/shadowAnt.github.io
+side_bar_repo_limit: 3
+
+# ---------------- #
+#      Author      #
+# ---------------- #
+author: 聪
+organization: qq空间动态
+organization_url: https://user.qzone.qq.com/1203355251/main
+location: HeFei, China
+email: 1203355251@qq.com
+
+# ---------------- #
+#    Navigation    #
+# ---------------- #
+navs:
+  -
+    href: /
+    label: 首页
+
+  -
+    href: /categories/
+    label: 分类
+
+  -
+    href: /MySkillTree/
+    label: 能力
+
+  -
+    href: /about/
+    label: 关于我
+
+# ---------------- #
+#       RSS        #
+# ---------------- #
+subscribe_rss: /feed.xml
+
+# ---------------- #
+#      Jekyll      #
+# ---------------- #
+markdown: kramdown
+kramdown:
+    input: GFM
+highlighter: rouge
+paginate: 7
+lsi: false
+quiet: false
+excerpt_separator: "\n\n"
+permalink: /:year/:month/:day/:title/
+gems:
+    - rouge
+#     - jekyll-html-pipeline
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-feed
+    - jemoji
+#     - jekyll-mentions
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
+
+# ---------------- #
+#      Socials     #
+# ---------------- #
+github_username: shadowAnt
+facebook_username: shadowAnt
+weibo_username: shadowAnt
+zhihu_username: 唐蚂蚁
+twitter_username: shadowAnt
+
+# ---------------- #
+#    Analytics     #
+# ---------------- #
+google:
+    analytics_id: UA-82434482-1
+
+# ---------------- #
+#      Datas       #
+# ---------------- #
+skill_language_keywords: [Java, C, C++, Python, Matlab]
+skill_xiangmu_keywords: [Android, 图像编码 ,图像信息隐藏]
