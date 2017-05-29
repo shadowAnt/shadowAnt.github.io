@@ -24,8 +24,9 @@ permalink: /MySkillTree/
 > * 组织《人民的民义》专题研讨会
 
 ## 擅长制作ppt 
-> * 负责 安徽大学采购管理中心2016年目标考核自评报告 的ppt制作 [[点击下载]](<http://pan.baidu.com/s/1pKZMa0r>)
-> * 负责 大学生创新创业训练计划项目《保护隐私的远程医疗查询系统的设计与实现》的ppt制作>> [[点击下载]](<http://pan.baidu.com/s/1i5olwtZ>)
+> * 制作 安徽大学采购管理中心2016年目标考核自评报告 ppt [[点击下载]](<http://pan.baidu.com/s/1pKZMa0r>)
+> * 制作 大学生创新创业训练计划项目《保护隐私的远程医疗查询系统的设计与实现》ppt>> [[点击下载]](<http://pan.baidu.com/s/1i5olwtZ>)
+> * 制作 安徽大学计算机科学与技术学院评估报告 ppt [[点击下载]](<http://opeo918xa.bkt.clouddn.com/%E5%AD%A6%E9%99%A2%E8%AF%84%E4%BC%B0%E6%8A%A5%E5%91%8A%20%E5%AE%8C%E6%88%90%E7%89%88v1.0.pptx>)
 
 ## 计划中/在学
 > * Java
